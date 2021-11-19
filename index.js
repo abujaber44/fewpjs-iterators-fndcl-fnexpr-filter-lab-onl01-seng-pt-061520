@@ -19,3 +19,5 @@ function matchName(drivers, name) {
         }
     })
 }
+
+console.log(drivers)
